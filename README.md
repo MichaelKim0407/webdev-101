@@ -2,7 +2,7 @@
 
 Michael Kim <mkim0407@gmail.com>
 
-This presentation is for instructors and/or students of the Data Analytics Bootcamp by Trilogy education.
+This presentation is for instructors and/or students of the Data Analytics Bootcamp by Trilogy Education.
 
 The curriculum contains many aspects of web development
 but does not provide a high-level overview of the concept.
