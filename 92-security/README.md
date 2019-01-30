@@ -53,6 +53,8 @@ SELECT * FROM users WHERE username = 'admin'; --' AND PASSWORD = '';
 Note that `--` is comment in SQL,
 so this new sql will select the user "admin" if there is one (and there usually is).
 
+[Related](https://beta.companieshouse.gov.uk/company/10542519)
+
 To protect against SQL injection,
 the most common practice is to clean user inputs before using them in the SQL statement.
 Some libraries, like SqlAlchemy or Django, has built-in input cleaning,
